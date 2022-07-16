@@ -31,8 +31,8 @@ Knowledge Base Inference Agent
   </ul>
 </ol>
 
-<h2>Форматы файлов базы знаний</h3>
-Структура файлов
+<h2>Форматы файлов базы знаний</h2>
+<h2>Структура файлов</h2>
   <h3>questions.txt<h3>
   <p><div>id/question</div>
   <ol>
